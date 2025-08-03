@@ -3,5 +3,5 @@ It used photo capturing to take some photos on the ISS(International Space Stati
 Beside, it also used 3-axis accelerometer to find the linear acceleration of the ISS(International Space Station) which calculated by **matrix**. And then **intergated the linear acceleration with calculus** and thus it will find the linear velocity.<br>
 By combining them in one system, it can significantly decrease the error of miscalculating within **±0.1%**.<br>
 You can know more about this project via YouTube for the presentation.<br>
-YouTube presentation link: https://youtu.be/-k7YlqqBv08?si=3mIyBmpFZ9UPsBsw<br>
+YouTube: https://youtu.be/-k7YlqqBv08?si=3mIyBmpFZ9UPsBsw<br>
 
